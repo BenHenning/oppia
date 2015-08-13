@@ -1,5 +1,6 @@
 var ScreenShotReporter = require('protractor-screenshot-reporter');
 
+// test edit
 // A reference configuration file.
 exports.config = {
   // ----- How to setup Selenium -----
