@@ -5,16 +5,7 @@ This file contains a summary of changes to the Oppia code base. For a full chang
 
 v2.0.0.rc.4 (15 Jul 2015)
 -------------------------
-Editor walkthrough page:
-* Add a new walkthrough tutorial which teaches the standard functionality of the editor.
-
-Learner page:
-* Show tiles of recommended explorations for the user to play after they have finished an exploration.
-
-Editor page:
-* Introduce answer groups (called responses) which replace the current rules in the editor.
-* Change the process of creating a new state to use an in-line text field instead of a modal.
-* Change many of the editor headers and button texts to be more conversational and friendly.
+and button texts to be more conversational and friendly.
 * Rename 'states' to 'cards'.
 * Remove the ability to add varied feedback (only one piece of feedback may be set for a response).
 * Automatically open the Add Response modal after selecting a new interaction type.
